@@ -1,0 +1,7 @@
+{
+  "require": {
+    "testpkgsub": "1.0.3"
+  },
+  "build-script": "build.q",
+  "module-paths": ["testpkg/testlib1", "testpkg/testlib2"]
+}
